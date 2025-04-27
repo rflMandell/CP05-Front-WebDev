@@ -5,7 +5,7 @@ Este projeto React apresenta uma lista de usuários falsos gerados através da A
 ## Autores
 
 - Rafael Mandel, RM560333
-- Luigi Thinego, RM560755
+- Luis Filipe Crivellaro, RM560877
 - Felipe Silva, RM559848
 
 ## Funcionalidades Implementadas
